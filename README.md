@@ -1,3 +1,7 @@
+1. There is a correlation between a cites latitude and their max temperature. 
+2. There is no correlation between a cites wind speed and their max temperature. 
+3. There is no correlation between a cites clouidness and their max temperature. 
+
 
 
 ```python
